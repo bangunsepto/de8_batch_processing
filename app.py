@@ -13,7 +13,7 @@ if __name__ == '__main__':
                             database=conf['db'], 
                             user=conf['user'], 
                             password=conf['pwd'], 
-                            port=conf['port']
+                            port=conf['port'] # saya menggunakan port 2022 sebagai pembeda karena koneksi DB ke wsl nya
                             )
     print(f"[INFO] Sukses konek ke PostgreSQL ....")
   except:
