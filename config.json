@@ -4,6 +4,6 @@
         "db":"digitalskola",
         "user":"postgres",
         "pwd":"postgres",
-        "port":2022
+        "port":2022  
     }
 }
