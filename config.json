@@ -5,5 +5,13 @@
         "user":"postgres",
         "pwd":"postgres",
         "port":2022  
+    },
+
+    "warehouse":{
+        "host":"172.17.0.1",
+        "db":"dwh_digitalskola",
+        "user":"postgres",
+        "pwd":"postgres",
+        "port":2022
     }
 }
